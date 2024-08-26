@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+#bg {
+  background: url('./OIP.jpeg');
+  background-repeat: no-repeat;
+  background-size: 160%;
+  width: 100%;
+  height: 100vh;
+}
+#p{
+  padding: 10rem;
+}
